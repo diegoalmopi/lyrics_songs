@@ -5,4 +5,4 @@ Run the next command (Ubuntu):
 
 ```
 python3 main.py
-``
+
